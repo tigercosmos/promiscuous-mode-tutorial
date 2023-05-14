@@ -1,5 +1,7 @@
 # Promiscuous Mode & PcapPlusPlus Tutorial
 
+http://tigercosmos.xyz/post/2023/05/system/promiscuous-mode/
+
 ```
 git clone https://github.com/tigercosmos/promiscuous-mode-tutorial
 
